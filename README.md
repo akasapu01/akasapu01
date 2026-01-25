@@ -22,4 +22,5 @@ ETL/ELT pipelines and cloud-based analytics platforms.
 - Microsoft Azure AI Essentials
 
 📫 Connect with me on LinkedIn
+- 💼 LinkedIn: [Harsha Akasapu](https://www.linkedin.com/in/harshaakasapu/)
 
