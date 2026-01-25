@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Harsha Akasapu 👋
 
-<!--
-**akasapu01/akasapu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Engineer with 3+ years of experience building scalable
+ETL/ELT pipelines and cloud-based analytics platforms.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** Python, SQL
+- **Big Data:** Apache Spark, PySpark, Databricks
+- **Cloud:** AWS (S3, Glue, EC2, Redshift), Azure
+- **Warehouses:** Snowflake, Amazon Redshift
+- **Orchestration:** Apache Airflow
+- **BI:** Power BI
+- **Data Practices:** Data quality checks, PII masking, SOX compliance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I Work On
+- Batch data pipelines processing large-scale financial datasets
+- Optimized Spark jobs and SQL queries for performance & cost
+- Analytical data modeling for reporting and compliance
+- Collaboration with analysts, data scientists, and stakeholders
+
+## 🧠 Certification
+- Microsoft Azure AI Essentials
+
+📫 Connect with me on LinkedIn
+
